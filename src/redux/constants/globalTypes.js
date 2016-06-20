@@ -1,0 +1,3 @@
+export const LRDIALOGUI = 'LRDIALOGUI';
+export const LEFTNAVUI = 'LEFTNAVUI';
+export const GET_CAPTCHAURL = 'GET_CAPTCHAURL';
